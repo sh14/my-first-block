@@ -23,12 +23,15 @@ class HelpersRepository {
 	 */
 	public static function setStyleVars( array $data ): string {
 		$colors = [];
+		// loop for properties
 		foreach ( $data as $key => $value ) {
-			$key      = preg_replace( '/[^a-zA-Z0-9-_]/', '_', $key );
+			// replace special chars with a underscore
+			$key = preg_replace( '/[^a-zA-Z0-9-_]/', '_', $key );
+			// combine new property name with value
 			$colors[] = '--offers_' . $key . ':' . $value;
 		}
 
-
+		// put properties to style tag as a CSS variables
 		return '<style>:root{' . implode( ';', $colors ) . '}</style>';
 	}
 
@@ -43,17 +46,20 @@ class HelpersRepository {
 	public static function renderTemplate( string $templateName, array $templateData = [] ): string {
 		// get template path
 		$path = pluginPath() . 'templates/' . $templateName;
-		$out  = '';
+
+		// check file existence
 		if ( file_exists( $path ) ) {
 			// this should be so that $templateData is in the function attributes and is not marked as an unused
 			$data = $templateData;
-			// adding data to a template
+			// put output to the buffer
 			ob_start();
 			include $path;
-			$out .= ob_get_clean();
+
+			// return rendered template data as a string
+			return ob_get_clean();
 		}
 
-		return $out;
+		return '';
 	}
 
 	/**
@@ -66,12 +72,17 @@ class HelpersRepository {
 	 * @throws JsonException
 	 */
 	public static function fetch( string $endpoint, int $expiration = HOUR_IN_SECONDS ): array {
+		// generate transient name for given endpoint
 		$transientName = 'offers_data_' . hash( 'md5', $endpoint );
+		// if transient is empty
 		if ( empty( $data = get_transient( $transientName ) ) ) {
-			$request    = wp_remote_get( $endpoint );
+			// request remote data
+			$request = wp_remote_get( $endpoint );
+			// retrieve response code
 			$statusCode = wp_remote_retrieve_response_code( $request );
 			// if server returns something instead of 200
 			if ( 200 !== $statusCode ) {
+				// delete transient
 				delete_transient( $transientName );
 
 				// return an error data
@@ -82,8 +93,9 @@ class HelpersRepository {
 					),
 				];
 			}
-
+			// if there is another problem
 			if ( is_wp_error( $request ) ) {
+				// delete transient
 				delete_transient( $transientName );
 
 				// return an error data
