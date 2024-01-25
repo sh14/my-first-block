@@ -202,6 +202,12 @@ class OffersRepository {
 	 * @throws JsonException
 	 */
 	public static function render( $atts ): string {
+		if(empty($atts['endpointUrl'])){
+			return sprintf(
+				'<div class="error">%s</div>',
+				__( 'The endpoint URL must be filled in.', 'my-first-block' )
+			);
+		}
 		// fetch data from given endpoint
 		$record = HelpersRepository::fetch( $atts['endpointUrl'] );
 		if ( ! empty( $record['error'] ) ) {
