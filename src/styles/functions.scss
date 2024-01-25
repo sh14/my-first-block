@@ -1,0 +1,23 @@
+
+@function getUnit($value) {
+	@return str-slice($value * 0 + "", 2, -1);
+}
+
+@function space($values) {
+	$length: length($values);
+	$list: '';
+	@for $i from 1 through $length {
+		$val: nth($values, $i);
+		$value: $val;
+		@if $val!='auto' {
+			$unit: getUnit($val);
+			@if $unit=='' {
+				$value: $val * $gutter;
+			}
+		}
+		//@debug $value;
+		$list: '#{$list} #{$value}';
+	}
+	@return unquote($list);
+}
+

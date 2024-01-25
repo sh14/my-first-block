@@ -1,0 +1,25 @@
+$gutter: 4px;
+$color_button_small: #ffa502;
+$color_button_small_text: #fff;
+
+
+$width__xs: 0px;
+$width__xs_more: $width__xs + 1px;
+$width__sm: 600px;
+$width__sm_more: $width__sm + 1px;
+$width__md: 960px;
+$width__md_more: $width__md + 1px;
+$width__lg: 1280px;
+$width__lg_more: $width__lg + 1px;
+$width__xl: 1920px;
+$width__xl_more: $width__xl + 1px;
+
+$devices: (
+	mini: 280px,
+	mobile: $width__xs_more,
+	tablet: $width__sm_more,
+	tablet-wide: $width__md_more,
+	desktop: $width__lg_more,
+	wide: $width__xl_more,
+);
+$sizes: (mini: xxs, mobile:xs, tablet: sm, tablet-wide:md, desktop: lg, wide: xl,);

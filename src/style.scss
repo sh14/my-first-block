@@ -1,0 +1,28 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+@import "./styles/variables";
+@import "./styles/functions";
+@import "./styles/mixins";
+@import "./styles/button";
+@import "./styles/carousel";
+@import "./styles/offer";
+@import "./styles/rating";
+@import "./styles/offers-modal";
+@import "./styles/modal-lock";
+
+.wp-block-create-block-my-first-block {
+	//background-color: transparentize(#21759b, .8);
+	//padding: space(0 2);
+}
+
+
+
+
+
+
+

@@ -1,0 +1,1773 @@
+{
+	"record": {
+		"offer_wall": {
+			"name": "Template - Original",
+			"uuid": "21d08617-29d9-4f04-a765-aad67f57fcb4",
+			"env": "production",
+			"landers": "",
+			"marketing_site_id": 39,
+			"marketing_site_url": "piggybankspins.com",
+			"marketing_site_name": "piggybankspins.com",
+			"cloaker_configuration_id": 0,
+			"cloaker_configuration_name": "",
+			"append_tracking_links": {
+				"template": "original"
+			},
+			"append_landing_page_url_params_to_tracking_links": true,
+			"header_scripts": "",
+			"body_scripts_top": "",
+			"body_scripts_bottom": "",
+			"region": ""
+		},
+		"display": {
+			"auto_stars": true,
+			"auto_stars_minimum": "3.0",
+			"show_preview_button": true,
+			"show_footer": true,
+			"ribbon_type": "Sticky Ribbons Only",
+			"ribbons": {
+				"one": "EXCLUSIVE OFFER",
+				"two": "USER FAVORITE",
+				"three": "TRENDING"
+			},
+			"colors": {
+				"background_primary_color": "#fafafa",
+				"ribbon_color": "#139c2a",
+				"ribbon_text_color": "#ffffff",
+				"ribbon_text_color_hovered": "#1a1a1a",
+				"headline_1_text_color": "#51b12f",
+				"headline_1_text_color_hovered": "#222222",
+				"headline_2_text_color": "#222222",
+				"headline_2_text_color_hovered": "#51b12f",
+				"headline_3_text_color": "#a5a5a5",
+				"headline_3_text_color_hovered": "#222222",
+				"stars_color": "#ffc10a",
+				"bullet_points_color": "#51b12f",
+				"bullet_points_text_color": "#222222",
+				"bullet_points_text_color_hovered": "#51b12f",
+				"cta_button_color": "#51b12f",
+				"cta_button_color_hovered": "#2f8511",
+				"cta_text_color": "#ffffff",
+				"cta_text_color_hovered": "#ffffff",
+				"read_review_text_color": "#4c4c4c",
+				"t&c_text_color": "#4c4c4c",
+				"footer_background_color": "#fafafa",
+				"footer_text_color": "#1a1a1a"
+			}
+		},
+		"offers": [
+			{
+				"brand": "Spinaway",
+				"operator": "Spinaway Partners",
+				"offer_title": "Spinaway Spinaway CA EN",
+				"campaign_name": "",
+				"offer_id": 44,
+				"parent_id": 24,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2787,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "cad",
+				"countries": [
+					"Canada"
+				],
+				"language": "English",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 8,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "55COOLCHAMP",
+				"terms": "Terms 18+",
+				"review": "Review",
+				"review_count": 2603,
+				"score_title": "Score",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "https://dpdl91xc1ieba.cloudfront.net/previews/spin_away/en/large.jpg",
+					"small_url": "https://dpdl91xc1ieba.cloudfront.net/previews/spin_away/en/small.jpg",
+					"mobile_url": ""
+				},
+				"ribbon": "EXCLUSIVE OFFER",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/spin_away/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/spin_away/light.svg",
+					"alt": "Spinaway Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1192&c=2787",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1192&c=2787",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1192&c=2787",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1192&c=2787",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Welcome Bonus"
+					},
+					"two": {
+						"title": "$1500"
+					},
+					"three": {
+						"title": "+ 100 Free Spins"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "High Paying Slots"
+					},
+					"two": {
+						"title": "Crypto-friendly"
+					},
+					"three": {
+						"title": "Fast Payouts"
+					},
+					"four": {
+						"title": "Progressive Jackpots"
+					}
+				},
+				"fine_print": "Spinaway LLC Registration #C148106",
+				"disclaimer": "Gambling addiction: Play responsibly",
+				"cta": {
+					"one": "PLAY NOW",
+					"two": "Terms 18+"
+				},
+				"deposits": [
+					{
+						"name": "banktransfer_2",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_2_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_2_ico_light.svg"
+					},
+					{
+						"name": "bitcoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_light.svg"
+					},
+					{
+						"name": "ecopayz",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_light.svg"
+					},
+					{
+						"name": "interac",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_light.svg"
+					},
+					{
+						"name": "litecoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "muchbetter",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_light.svg"
+					},
+					{
+						"name": "paysafecard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_light.svg"
+					},
+					{
+						"name": "ripple",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ripple_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ripple_ico_light.svg"
+					},
+					{
+						"name": "skrill",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_light.svg"
+					},
+					{
+						"name": "sofort",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/sofort_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/sofort_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Canada",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/ca.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 5,
+				"offer_type": "cpa",
+				"offer_order": 8,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "PlayAmo",
+				"operator": "Playamo",
+				"offer_title": "PlayAmo PlayAmo DE DE",
+				"campaign_name": "",
+				"offer_id": 42,
+				"parent_id": 3700,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 1876,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "eur",
+				"countries": [
+					"Germany"
+				],
+				"language": "German",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 9,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "FIRSTDEP",
+				"terms": "Begriffe 18+",
+				"review": "Rezension",
+				"review_count": 1588,
+				"score_title": "Punktzahl",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "https://dpdl91xc1ieba.cloudfront.net/previews/playamo/de/large.jpg",
+					"small_url": "https://dpdl91xc1ieba.cloudfront.net/previews/playamo/de/small.jpg",
+					"mobile_url": ""
+				},
+				"ribbon": "USER FAVORITE",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/playamo/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/playamo/light.svg",
+					"alt": "Playamo Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2783",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2783",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2783",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2783",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Willkommenspaket"
+					},
+					"two": {
+						"title": "€300"
+					},
+					"three": {
+						"title": "+150 Freispiele"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "VIP-Belohnungen"
+					},
+					"two": {
+						"title": "Turniere"
+					},
+					"three": {
+						"title": "50% Freitags-Reload"
+					},
+					"four": {
+						"title": "Montags-Freispiele"
+					}
+				},
+				"fine_print": "Playamo LLC Registrierung #419102",
+				"disclaimer": "Glücksspielabhängigkeit: Verantwortungsbewusst spielen",
+				"cta": {
+					"one": "JETZT SPIELEN",
+					"two": "Begriffe 18+"
+				},
+				"deposits": [
+					{
+						"name": "banktransfer_2",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_2_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_2_ico_light.svg"
+					},
+					{
+						"name": "idebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_light.svg"
+					},
+					{
+						"name": "instadebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_light.svg"
+					},
+					{
+						"name": "interac",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_light.svg"
+					},
+					{
+						"name": "maestro",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "mifinity",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mifinity_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mifinity_ico_light.svg"
+					},
+					{
+						"name": "neosurf",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neosurf_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neosurf_ico_light.svg"
+					},
+					{
+						"name": "neteller",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neteller_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neteller_ico_light.svg"
+					},
+					{
+						"name": "paysafecard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Germany",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/de.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 5,
+				"offer_type": "cpa",
+				"offer_order": 9,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "20Bet",
+				"operator": "Playamo",
+				"offer_title": "20Bet | Germany | German | Playamo",
+				"campaign_name": "",
+				"offer_id": 47,
+				"parent_id": 3704,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2781,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "eur",
+				"countries": [
+					"Germany"
+				],
+				"language": "German",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 10,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "RELOAD",
+				"terms": "Begriffe 18+",
+				"review": "Test",
+				"review_count": 7584,
+				"score_title": "Test",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "",
+					"small_url": "",
+					"mobile_url": ""
+				},
+				"ribbon": "TRENDING",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/20_bet/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/20_bet/light.svg",
+					"alt": "20bet Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2781",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2781",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2781",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2781",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Willkommensbonus"
+					},
+					"two": {
+						"title": "100% €120"
+					},
+					"three": {
+						"title": "+ 120 Freispiele"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "50% Freitag Reload"
+					},
+					"two": {
+						"title": "25% Skrill Bonus"
+					},
+					"three": {
+						"title": "Casino Slot-Rennen"
+					},
+					"four": {
+						"title": "VIP-Programm"
+					}
+				},
+				"fine_print": "20Bet LLC Registrierung #C377018",
+				"disclaimer": "Glücksspielabhängigkeit: Verantwortungsbewusst Spielen",
+				"cta": {
+					"one": "JETZT SPIELEN",
+					"two": "Begriffe 18+"
+				},
+				"deposits": [
+					{
+						"name": "bitcoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_light.svg"
+					},
+					{
+						"name": "diners",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/diners_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/diners_ico_light.svg"
+					},
+					{
+						"name": "discover",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/discover_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/discover_ico_light.svg"
+					},
+					{
+						"name": "ecopayz",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_light.svg"
+					},
+					{
+						"name": "ethereum",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ethereum_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ethereum_ico_light.svg"
+					},
+					{
+						"name": "interac",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_light.svg"
+					},
+					{
+						"name": "jeton",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/jeton_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/jeton_ico_light.svg"
+					},
+					{
+						"name": "litecoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "perfectmoney",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/perfectmoney_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/perfectmoney_ico_light.svg"
+					},
+					{
+						"name": "skrill",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Germany",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/de.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 4.5,
+				"offer_type": "cpa",
+				"offer_order": 10,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "Luckydays",
+				"operator": "Lucky Days",
+				"offer_title": "Luckydays | Canada | English",
+				"campaign_name": "",
+				"offer_id": 38,
+				"parent_id": 17,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2788,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "cad",
+				"countries": [
+					"Canada"
+				],
+				"language": "English",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 6,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "50WILDLUCK",
+				"terms": "Terms 18+",
+				"review": "Review",
+				"review_count": 8944,
+				"score_title": "Score",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "https://dpdl91xc1ieba.cloudfront.net/previews/lucky_days/en/large.jpeg",
+					"small_url": "https://dpdl91xc1ieba.cloudfront.net/previews/lucky_days/en/small.jpeg",
+					"mobile_url": ""
+				},
+				"ribbon": "",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/lucky_days/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/lucky_days/light.svg",
+					"alt": "Luckydays Logo"
+				},
+				"links": {
+					"offer": "https://begestorm-gentside.icu/click/8?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&gclid=%5B%5Bgclid%5D%5D&campaignid=%5B%5Bcampaignid%5D%5D&adgroupid=%5B%5Badgroupid%5D%5D&loc_physicall_ms=%5B%5Bloc_physical_ms%5D%5D&loc_interest_ms=%5B%5Bloc_interest_ms%5D%5D&matchtype=%5B%5Bmatchtype%5D%5D&network=%5B%5Bnetwork%5D%5D&creative=%5B%5Bcreative%5D%5D&keyword=%5B%5Bkeyword%5D%5D&placement=%5B%5Bplacement%5D%5D&targetid=%5B%5Btargetid%5D%5D&clickid=%5B%5Bclickid%5D%5D",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1193&c=2788",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1193&c=2788",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1193&c=2788",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Welcome Package"
+					},
+					"two": {
+						"title": "100% Bonuses"
+					},
+					"three": {
+						"title": "+100 Free Spins"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "Fast Withdrawals"
+					},
+					"two": {
+						"title": "Special Bonuses"
+					},
+					"three": {
+						"title": "Low Wagering Requirement"
+					},
+					"four": {
+						"title": "Mobile Optimised"
+					}
+				},
+				"fine_print": "Luckydays LLC Registration #148106",
+				"disclaimer": "Gambling addiction: Play responsibly",
+				"cta": {
+					"one": "PLAY NOW",
+					"two": "Terms 18+"
+				},
+				"deposits": [
+					{
+						"name": "banktransfer_2",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_2_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_2_ico_light.svg"
+					},
+					{
+						"name": "ecopayz",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_light.svg"
+					},
+					{
+						"name": "idebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_light.svg"
+					},
+					{
+						"name": "instadebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_light.svg"
+					},
+					{
+						"name": "interac",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "muchbetter",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_light.svg"
+					},
+					{
+						"name": "paysafecard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Canada",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/ca.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 4.5,
+				"offer_type": "cpa",
+				"offer_order": 6,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "Casumo",
+				"operator": "Mount Media",
+				"offer_title": "Casumo | Canada | English | Mount Media",
+				"campaign_name": "",
+				"offer_id": 39,
+				"parent_id": 3697,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2779232232,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "cad",
+				"countries": [
+					"Canada"
+				],
+				"language": "English",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 2,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "HAPPYLUCKY",
+				"terms": "Terms 19+",
+				"review": "Review",
+				"review_count": 7728,
+				"score_title": "Score",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "https://dpdl91xc1ieba.cloudfront.net/previews/casumo/en/large.jpeg",
+					"small_url": "https://dpdl91xc1ieba.cloudfront.net/previews/casumo/en/small.jpeg",
+					"mobile_url": ""
+				},
+				"ribbon": "",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/casumo/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/casumo/light.svg",
+					"alt": "Casumo Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1190&c=2779",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1190&c=2779",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1190&c=2779",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1190&c=2779",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Welcome Bonus"
+					},
+					"two": {
+						"title": "100% $500"
+					},
+					"three": {
+						"title": "+115 Free Spins"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "Casumo Valuables"
+					},
+					"two": {
+						"title": "Free Spins"
+					},
+					"three": {
+						"title": "Reel Races"
+					},
+					"four": {
+						"title": "VIP Program"
+					}
+				},
+				"fine_print": "Casumo LLC Registration #C92476",
+				"disclaimer": "Gambling addiction: Play responsibly",
+				"cta": {
+					"one": "PLAY NOW",
+					"two": "Terms 19+"
+				},
+				"deposits": [
+					{
+						"name": "ecopayz",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_light.svg"
+					},
+					{
+						"name": "idebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_light.svg"
+					},
+					{
+						"name": "instadebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_light.svg"
+					},
+					{
+						"name": "interac_e_transfer",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_e_transfer_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_e_transfer_ico_light.svg"
+					},
+					{
+						"name": "maestro",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "muchbetter",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_light.svg"
+					},
+					{
+						"name": "paysafecard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Canada",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/ca.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 4,
+				"offer_type": "cpa",
+				"offer_order": 2,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "CasinoChan",
+				"operator": "Playamo",
+				"offer_title": "PlayAmo CasinoChan DE DE",
+				"campaign_name": "",
+				"offer_id": 43,
+				"parent_id": 3701,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2784,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "eur",
+				"countries": [
+					"Germany"
+				],
+				"language": "German",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 4,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "BERLIN",
+				"terms": "Begriffe 18+",
+				"review": "Rezension",
+				"review_count": 7374,
+				"score_title": "Punktzahl",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "",
+					"small_url": "",
+					"mobile_url": ""
+				},
+				"ribbon": "",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/casino_chan/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/casino_chan/light.svg",
+					"alt": "CasinoChan Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2784",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2784",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2784",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2784",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Ersteinzahlungsbonus"
+					},
+					"two": {
+						"title": "Bis zu €400"
+					},
+					"three": {
+						"title": "+ 120 Freispiele"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "50% Montagsbonus"
+					},
+					"two": {
+						"title": "Donnerstag Freispiele"
+					},
+					"three": {
+						"title": "Live-Casino"
+					},
+					"four": {
+						"title": "Turniere"
+					}
+				},
+				"fine_print": "CasinoChan LLC Registrierung #C15212",
+				"disclaimer": "Glücksspielabhängigkeit: Verantwortungsbewusst spielen",
+				"cta": {
+					"one": "JETZT SPIELEN",
+					"two": "Begriffe 18+"
+				},
+				"deposits": [
+					{
+						"name": "banktransfer_2",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_2_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_2_ico_light.svg"
+					},
+					{
+						"name": "bitcoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_light.svg"
+					},
+					{
+						"name": "bitcoincash",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoincash_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoincash_ico_light.svg"
+					},
+					{
+						"name": "dogecoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/dogecoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/dogecoin_ico_light.svg"
+					},
+					{
+						"name": "ethereum",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ethereum_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ethereum_ico_light.svg"
+					},
+					{
+						"name": "idebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_light.svg"
+					},
+					{
+						"name": "instadebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_light.svg"
+					},
+					{
+						"name": "interac_e_transfer",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_e_transfer_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_e_transfer_ico_light.svg"
+					},
+					{
+						"name": "interac",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_light.svg"
+					},
+					{
+						"name": "litecoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_light.svg"
+					},
+					{
+						"name": "maestro",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "neosurf",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neosurf_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neosurf_ico_light.svg"
+					},
+					{
+						"name": "neteller",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neteller_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neteller_ico_light.svg"
+					},
+					{
+						"name": "paysafecard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paysafecard_ico_light.svg"
+					},
+					{
+						"name": "skrill",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					},
+					{
+						"name": "webmoney",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/webmoney_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/webmoney_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Germany",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/de.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 4,
+				"offer_type": "cpa",
+				"offer_order": 4,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "LeoVegas",
+				"operator": "Leo Vegas",
+				"offer_title": "Leo Vegas Leo Vegas CA EN",
+				"campaign_name": "",
+				"offer_id": 45,
+				"parent_id": 3702,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2786,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "cad",
+				"countries": [
+					"Canada"
+				],
+				"language": "English",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 22,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "55COOLCHAMP",
+				"terms": "Terms 18+",
+				"review": "Review",
+				"review_count": 3919,
+				"score_title": "Score",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "https://dpdl91xc1ieba.cloudfront.net/previews/leo_vegas/en/large.jpg",
+					"small_url": "https://dpdl91xc1ieba.cloudfront.net/previews/leo_vegas/en/small.jpg",
+					"mobile_url": ""
+				},
+				"ribbon": "",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/leo_vegas/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/leo_vegas/light.svg",
+					"alt": "LeoVegas Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1191&c=2786",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1191&c=2786",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1191&c=2786",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1191&c=2786",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Welcome Offer"
+					},
+					"two": {
+						"title": "Up to $1,000"
+					},
+					"three": {
+						"title": "+ 200 Free Spins"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "Exclusive LeoJackpot"
+					},
+					"two": {
+						"title": "Social Media Campaigns"
+					},
+					"three": {
+						"title": "Night Owl Free Spins"
+					},
+					"four": {
+						"title": "Drops & Wins"
+					}
+				},
+				"fine_print": "LeoVegas LLC Registration #C94193",
+				"disclaimer": "Gambling addiction: Play responsibly",
+				"cta": {
+					"one": "PLAY NOW",
+					"two": "Terms 18+"
+				},
+				"deposits": [
+					{
+						"name": "idebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/idebit_ico_light.svg"
+					},
+					{
+						"name": "instadebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_light.svg"
+					},
+					{
+						"name": "interac",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "muchbetter",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Canada",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/ca.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 3.5,
+				"offer_type": "hybrid",
+				"offer_order": 22,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "TempleNile",
+				"operator": "Mount Media",
+				"offer_title": "TempleNile | Canada | English",
+				"campaign_name": "",
+				"offer_id": 40,
+				"parent_id": 3698,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2780,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "usd",
+				"countries": [
+					"Canada"
+				],
+				"language": "English",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 6,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "VIPHERO20",
+				"terms": "Terms 18+",
+				"review": "Review",
+				"review_count": 8418,
+				"score_title": "Score",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "https://dpdl91xc1ieba.cloudfront.net/previews/temple_nile/en/large.jpg",
+					"small_url": "https://dpdl91xc1ieba.cloudfront.net/previews/temple_nile/en/small.jpg",
+					"mobile_url": ""
+				},
+				"ribbon": "",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/temple_nile/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/temple_nile/light.svg",
+					"alt": "Temple Nile Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1190&c=2780",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1190&c=2780",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1190&c=2780",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1190&c=2780",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "First Deposit Bonus"
+					},
+					"two": {
+						"title": "200% $500"
+					},
+					"three": {
+						"title": "+30 Free Spins"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "Second Deposit"
+					},
+					"two": {
+						"title": "25% $800"
+					},
+					"three": {
+						"title": "Temple Bazaar Tokens"
+					},
+					"four": {
+						"title": "VIP Program"
+					}
+				},
+				"fine_print": "Temple Nile LLC Registration #C71497",
+				"disclaimer": "Gambling addiction: Play responsibly",
+				"cta": {
+					"one": "PLAY NOW",
+					"two": "Terms 18+"
+				},
+				"deposits": [
+					{
+						"name": "applepay",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/apple_pay_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/apple_pay_ico_light.svg"
+					},
+					{
+						"name": "banktransfer",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bank_transfer_ico_light.svg"
+					},
+					{
+						"name": "instadebit",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/instadebit_ico_light.svg"
+					},
+					{
+						"name": "interac_e_transfer",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_e_transfer_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_e_transfer_ico_light.svg"
+					},
+					{
+						"name": "klarna",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/klarna_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/klarna_ico_light.svg"
+					},
+					{
+						"name": "maestro",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "muchbetter",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/muchbetter_ico_light.svg"
+					},
+					{
+						"name": "neteller",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neteller_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neteller_ico_light.svg"
+					},
+					{
+						"name": "pagoefectivo",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/pagoefectivo_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/pagoefectivo_ico_light.svg"
+					},
+					{
+						"name": "paypal",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paypal_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paypal_ico_light.svg"
+					},
+					{
+						"name": "paytrail",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paytrail_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/paytrail_ico_light.svg"
+					},
+					{
+						"name": "rapidtransfer",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/rapidtransfer_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/rapidtransfer_ico_light.svg"
+					},
+					{
+						"name": "skrill",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_light.svg"
+					},
+					{
+						"name": "sofort",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/sofort_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/sofort_ico_light.svg"
+					},
+					{
+						"name": "trustly",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/trustly_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/trustly_ico_light.svg"
+					},
+					{
+						"name": "tuv",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/tuv_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/tuv_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Canada",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/ca.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 3.5,
+				"offer_type": "cpa",
+				"offer_order": 6,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "National",
+				"operator": "Playamo",
+				"offer_title": "PlayAmo National Casino DE DE",
+				"campaign_name": "",
+				"offer_id": 41,
+				"parent_id": 3699,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2783,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "eur",
+				"countries": [
+					"Germany"
+				],
+				"language": "German",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 6,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "10GOLDSHINE",
+				"terms": "Begriffe 18+",
+				"review": "Rezension",
+				"review_count": 3132,
+				"score_title": "Punktzahl",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "https://dpdl91xc1ieba.cloudfront.net/previews/national/de/large.jpeg",
+					"small_url": "https://dpdl91xc1ieba.cloudfront.net/previews/national/de/small.jpeg",
+					"mobile_url": ""
+				},
+				"ribbon": "",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/national/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/national/light.svg",
+					"alt": "National Casino Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2782",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2782",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2782",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2782",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Ersteinzahlungsbonus"
+					},
+					"two": {
+						"title": "100% €100"
+					},
+					"three": {
+						"title": "+ 100 Freispiele"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "50% Freitags-Reload"
+					},
+					"two": {
+						"title": "Montags-Freispiele"
+					},
+					"three": {
+						"title": "VIP-Programm"
+					},
+					"four": {
+						"title": "Turniere"
+					}
+				},
+				"fine_print": "National Casino LLC Registrierung #C21362",
+				"disclaimer": "Glücksspielabhängigkeit: Verantwortungsbewusst spielen",
+				"cta": {
+					"one": "JETZT SPIELEN",
+					"two": "Begriffe 18+"
+				},
+				"deposits": [
+					{
+						"name": "bitcoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_light.svg"
+					},
+					{
+						"name": "discover",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/discover_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/discover_ico_light.svg"
+					},
+					{
+						"name": "ecopayz",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_light.svg"
+					},
+					{
+						"name": "ethereum",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ethereum_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ethereum_ico_light.svg"
+					},
+					{
+						"name": "interac_e_transfer",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_e_transfer_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/interac_e_transfer_ico_light.svg"
+					},
+					{
+						"name": "jeton",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/jeton_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/jeton_ico_light.svg"
+					},
+					{
+						"name": "litecoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "neteller",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neteller_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neteller_ico_light.svg"
+					},
+					{
+						"name": "perfectmoney",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/perfectmoney_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/perfectmoney_ico_light.svg"
+					},
+					{
+						"name": "skrill",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/skrill_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Germany",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/de.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 3,
+				"offer_type": "cpa",
+				"offer_order": 6,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			},
+			{
+				"brand": "Woo",
+				"operator": "Playamo",
+				"offer_title": "PlayAmo Woo Casino DE DE",
+				"campaign_name": "",
+				"offer_id": 46,
+				"parent_id": 3703,
+				"bankrolls_com_tracking_id": 0,
+				"bankrolls_com_campaign_id": 2785,
+				"bankrolls_com_advertiser_id": null,
+				"user_name": "Demo Account",
+				"currency": "eur",
+				"countries": [
+					"Germany"
+				],
+				"language": "German",
+				"licensed": "unknown",
+				"licensed_countries": [],
+				"licensed_regions": [],
+				"reviewed": "Yes",
+				"reviewed_admin_approved": "Yes",
+				"order_number": 9,
+				"status": "Active",
+				"coupon_title": "Coupon",
+				"coupon": "WOO",
+				"terms": "Begriffe 18+",
+				"review": "Rezension",
+				"review_count": 4390,
+				"score_title": "Punktzahl",
+				"preview_button_url": "",
+				"preview_image": {
+					"large_url": "https://dpdl91xc1ieba.cloudfront.net/previews/woo_casino/de/large.jpeg",
+					"small_url": "https://dpdl91xc1ieba.cloudfront.net/previews/woo_casino/de/small.jpeg",
+					"mobile_url": ""
+				},
+				"ribbon": "",
+				"traffic_sources": [
+					"unknown"
+				],
+				"logo": {
+					"dark": "https://dpdl91xc1ieba.cloudfront.net/logos/woo_casino/dark.svg",
+					"light": "https://dpdl91xc1ieba.cloudfront.net/logos/woo_casino/light.svg",
+					"alt": "Woo Casino Logo"
+				},
+				"links": {
+					"offer": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2785",
+					"review": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2785",
+					"terms": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2785",
+					"banner": "https://track.bankrolls.com/trk.php?template=original&ow-id=21d08617-29d9-4f04-a765-aad67f57fcb4&t=1189&c=2785",
+					"bankrolls_com_tracking": ""
+				},
+				"headlines": {
+					"one": {
+						"title": "Willkommenspaket"
+					},
+					"two": {
+						"title": "100% 200€"
+					},
+					"three": {
+						"title": "+200 Freispiele"
+					},
+					"four": {
+						"title": null
+					},
+					"five": {
+						"title": null
+					},
+					"six": {
+						"title": null
+					}
+				},
+				"bullet_points": {
+					"one": {
+						"title": "Wochenend Reload"
+					},
+					"two": {
+						"title": "50% 100€"
+					},
+					"three": {
+						"title": "Tägliches Freispiele"
+					},
+					"four": {
+						"title": "VIP-Programm"
+					}
+				},
+				"fine_print": "Woo Casino LLC Registrierung #HE 419102",
+				"disclaimer": "Glücksspielabhängigkeit: Verantwortungsbewusst spielen",
+				"cta": {
+					"one": "JETZT SPIELEN",
+					"two": "Begriffe 18+"
+				},
+				"deposits": [
+					{
+						"name": "bitcoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoin_ico_light.svg"
+					},
+					{
+						"name": "bitcoincash",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoincash_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/bitcoincash_ico_light.svg"
+					},
+					{
+						"name": "cashtocode",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/cashtocode_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/cashtocode_ico_light.svg"
+					},
+					{
+						"name": "coinspaid",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/coinspaid_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/coinspaid_ico_light.svg"
+					},
+					{
+						"name": "dogecoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/dogecoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/dogecoin_ico_light.svg"
+					},
+					{
+						"name": "ecopayz",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ecopayz_ico_light.svg"
+					},
+					{
+						"name": "ethereum",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ethereum_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/ethereum_ico_light.svg"
+					},
+					{
+						"name": "iwallet",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/iwallet_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/iwallet_ico_light.svg"
+					},
+					{
+						"name": "litecoin",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/litecoin_ico_light.svg"
+					},
+					{
+						"name": "maestro",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/maestro_ico_light.svg"
+					},
+					{
+						"name": "mastercard",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/mastercard_ico_light.svg"
+					},
+					{
+						"name": "neosurf",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neosurf_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/neosurf_ico_light.svg"
+					},
+					{
+						"name": "tether",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/tether_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/tether_ico_light.svg"
+					},
+					{
+						"name": "visa",
+						"dark_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_dark.svg",
+						"light_url": "https://dpdl91xc1ieba.cloudfront.net/images/deposits/visa_ico_light.svg"
+					}
+				],
+				"countries_flags": [
+					{
+						"name": "Germany",
+						"url": "https://dpdl91xc1ieba.cloudfront.net/images/flags/de.svg"
+					}
+				],
+				"regions_flags": [],
+				"external_review_page": "",
+				"tracking_links_params": [],
+				"stars": 3,
+				"offer_type": "cpa",
+				"offer_order": 9,
+				"games": [],
+				"game_types": [],
+				"game_providers": []
+			}
+		],
+		"javascript": [
+			"https://dpdl91xc1ieba.cloudfront.net/js/app.js",
+			"https://dpdl91xc1ieba.cloudfront.net/js/iframe-resizer/iframeResizer.min.js",
+			"https://dpdl91xc1ieba.cloudfront.net/js/publisher.js"
+		],
+		"css": [
+			"https://dpdl91xc1ieba.cloudfront.net/css/custom-bootstrap.css",
+			"https://dpdl91xc1ieba.cloudfront.net/css/offer-walls/templates/original.css",
+			"https://dpdl91xc1ieba.cloudfront.net/vendor/slick/css/slick.min.css",
+			"https://dpdl91xc1ieba.cloudfront.net/vendor/slick/css/slick-theme.min.css",
+			"https://dpdl91xc1ieba.cloudfront.net/css/lazy-loading.css"
+		]
+	},
+	"metadata": {
+		"id": "65aa4442dc74654018964dd9",
+		"private": false,
+		"createdAt": "2024-01-19T09:43:30.959Z"
+	}
+}

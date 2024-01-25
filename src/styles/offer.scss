@@ -1,0 +1,160 @@
+@use 'sass:math';
+.offer {
+	$border_color: transparentize(#000, .9);
+	$radius: 3;
+
+	&, & * {
+		box-sizing: border-box;
+	}
+
+	font-size: 16px;
+	background-color: var(--offers_background_primary_color);
+	border-radius: space($radius);
+	width: 100%;
+	max-width: 960px;
+	margin: space(0 auto 5);
+
+
+	&__content {
+		display: flex;
+		flex-direction: column;
+		flex-wrap: nowrap;
+		width: 100%;
+		padding: space(5);
+		position: relative;
+	}
+
+	&__column {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	&__row {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: center;
+		align-items: center;
+	}
+
+	&__separator {
+		width: 1px;
+		height: 1em;
+		background-color: $border_color;
+		margin: space(0 .5em);
+	}
+
+	&__logo {
+		//width: 200px;
+		height: auto;
+		display: block;
+		margin: space(0 5);
+	}
+
+	&__headlines {
+		text-align: center;
+		color: var(--color);
+		@include colors(5);
+
+		&_one {
+			word-wrap: break-word;
+			line-height: 1;
+		}
+	}
+
+	&__points-list {
+		list-style: none;
+	}
+
+	&__point {
+		position: relative;
+		color: var(--offers_bullet_points_text_color);
+		line-height: 1.3;
+
+		&:hover, &:focus {
+			color: var(--offers_bullet_points_text_color_hovered);
+		}
+
+		&:before {
+			display: block;
+			position: absolute;
+			top: 0;
+			right: 100%;
+			content: '✓';
+			color: var(--offers_bullet_points_color);
+			margin: space(0 .3em 0 0);
+		}
+	}
+
+	&__footer {
+		border-top: 1px solid $border_color;
+		border-radius: space(0 0 $radius $radius);
+		background-color: var(--offers_footer_background_color);
+		color: var(--offers_footer_text_color);
+		font-size: 0.6em;
+	}
+
+	&__ribbon {
+		position: absolute;
+		top: space(1);
+		left: space(1);
+		background-color: var(--offers_ribbon_color);
+		color: var(--offers_ribbon_text_color);
+		line-height: 1;
+		padding: space(1 5);
+		border-radius: space($radius 0 $radius 0);
+		font-size: .8em;
+
+		&:hover, &:focus {
+			color: var(--offers_ribbon_text_color_hovered);
+		}
+	}
+
+	&__preview {
+		position: absolute;
+		bottom: space(1);
+		left: space(1);
+	}
+
+	/* Mixins */
+
+	$mixin: small;
+
+	&__column_#{$mixin} {
+		font-size: .8em;
+	}
+
+	&__row_#{$mixin} {
+		font-size: 0.8em;
+	}
+
+	$mixin: one;
+
+	&__headlines_#{$mixin} {
+		font-size: 1.5em;
+		font-weight: bold;
+	}
+
+	$mixin: two;
+
+	&__headlines_#{$mixin} {
+		font-weight: bold;
+	}
+
+	$mixin: three;
+
+	&__headlines_#{$mixin} {
+		font-size: 0.8em;
+	}
+
+	@include media(tablet){
+		&__content {
+			flex-direction: row;
+		}
+		&__column {
+			flex-basis: math.div(100%, 5);
+			min-width: math.div(100%, 5);
+		}
+	}
+}

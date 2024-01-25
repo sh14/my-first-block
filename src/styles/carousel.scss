@@ -1,0 +1,74 @@
+.carousel {
+
+	&__box {
+		max-width: 100%;
+		height: space(9);
+		overflow: hidden;
+	}
+
+	&__container {
+		display: flex;
+		flex-wrap: nowrap;
+		flex-direction: row;
+		transform: translateX(0);
+		transition: transform 400ms ease-out;
+	}
+
+	&__slide {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: center;
+		min-width: 100%;
+
+	}
+
+	&__item {
+		min-width: calc(100% / var(--offers_items_per_slide));
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		height: space(9);
+	}
+
+	&__image {
+		width: space(8);
+		height: space(8);
+	}
+
+	&__bullets {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: center;
+		margin: space(2 0 0 0);
+		cursor: pointer;
+	}
+
+	&__bullet {
+		padding: space(1);
+
+		&:before {
+			content: '';
+			display: block;
+			background-color: #ccc;
+			width: space(5px);
+			height: space(5px);
+			border-radius: 50%;
+		}
+	}
+
+	$mixin: active;
+
+	&__slide_#{$mixin} {
+
+	}
+
+	&__bullet_#{$mixin} {
+		&:before {
+			background-color: #000;
+		}
+	}
+
+}

@@ -1,0 +1,18 @@
+@mixin colors($size) {
+	@for $index from 1 through $size {
+		&:nth-child(#{$index}) {
+			color: var(--offers_headline_#{$index}_text_color);
+
+			&:hover, &:focus {
+				color: var(--offers_headline_#{$index}_text_color_hovered);
+			}
+		}
+	}
+}
+@mixin media($device) {
+	$data: map-get($devices, $device);
+	@debug $data;
+	@media (min-width: $data) {
+		@content;
+	}
+}

@@ -1,0 +1,34 @@
+.rating {
+	display: flex;
+	flex-direction: row;
+
+	&__star {
+		font-size: 2em;
+		margin: space(0 1px);
+		color: var(--offers_stars_color);
+
+		&:after {
+			display: block;
+			//noinspection CssNoGenericFontName
+			font-family: dashicons;
+		}
+
+		&_full {
+			&:after {
+				content: "\f155";
+			}
+		}
+
+		&_half {
+			&:after {
+				content: "\f459";
+			}
+		}
+
+		&_empty {
+			&:after {
+				content: "\f154";
+			}
+		}
+	}
+}
