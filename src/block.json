@@ -13,8 +13,8 @@
   },
   "attributes": {
     "endpointUrl": {
-      "type": "string",
       "default": ""
+      "type": "string",
     }
   },
   "textdomain": "my-first-block",
